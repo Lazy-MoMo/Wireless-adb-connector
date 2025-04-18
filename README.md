@@ -1,4 +1,4 @@
-# Wireless ADB Connector
+j# Wireless ADB Connector
 
 A simple Bash script to automate the process of connecting to an Android device via wireless debugging. This script helps you set up wireless ADB (Android Debug Bridge) by retrieving the device's IP address and establishing a connection.
 
@@ -72,6 +72,11 @@ If the script fails to establish a wireless connection, try the following:
 2. Verify that your device and computer are on the same Wi-Fi network.
 3. Reconnect the USB cable and run the script again.
 4. Check that wireless debugging is enabled in the developer options on your device.
+5. Run in terminal
+   
+   ```
+   adb kill-server
+   ```
 
 ## License
 
