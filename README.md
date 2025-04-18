@@ -1,4 +1,4 @@
-j# Wireless ADB Connector
+# Wireless ADB Connector
 
 A simple Bash script to automate the process of connecting to an Android device via wireless debugging. This script helps you set up wireless ADB (Android Debug Bridge) by retrieving the device's IP address and establishing a connection.
 
