@@ -26,7 +26,7 @@ A simple Bash script to automate the process of connecting to an Android device 
 1. Clone this repository or download the script:
 
    ```bash
-   git clone https://github.com/your-username/wireless-adb-connector.git
+   git clone https://github.com/Lazy-MoMo/wireless-adb-connector.git
    cd wireless-adb-connector
    ```
 
