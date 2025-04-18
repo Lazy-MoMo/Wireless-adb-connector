@@ -80,7 +80,7 @@ If the script fails to establish a wireless connection, try the following:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -88,8 +88,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Acknowledgments
 
-- Inspired by the need for a simple and automated way to set up wireless ADB connections.
-- Thanks to the Android developer community for their helpful resources.
+- To myself.
 
 ---
 
